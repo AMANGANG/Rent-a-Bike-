@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.logo{
+    width: 25vh;
+    height: 9vh;
+}
